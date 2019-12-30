@@ -1,8 +1,6 @@
 /*
  * The themes given below were converted from the piano sheet music 
- * Code by : B.Aswinth Raj
- * Dated: 15-06-2017
- * Website: CircuitDigest.com
+ * Code by :ansh adlakha
  */
 
 //##############**"HE IS A PIRATE" Theme song of Pirates of caribbean**##############//
